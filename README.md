@@ -1,12 +1,3 @@
-## CSE241 Midpoint
-## NOTE: For final Submission portion skim until you find:CSE Final Submission portion below
-
-
-A problem explanation that describes in words what you are actually designing based on all the facts provided to you.
-
-
-
-
 ## Problem Explanation: 
 In this problem we have two roads, a country road and a highway road that intersect eachother. The roads are perpindecular to eachother and both only go one way. Since both roads only go one way, there will only be one light that is either red or green on each road. What we have are multiple different possible cases/states possible for different situations given. The possible states will be based on a sensor enable, a vehicle counting sensor, and a weather sensor.
 
