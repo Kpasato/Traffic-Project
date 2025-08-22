@@ -250,15 +250,7 @@ The way you would test in system verilog is to test multiple different states wi
 
 **Conclusion:** When working with this design problem I was able to construct a simple traffic system that is able to be used in a situation where roads intersect each other, go one way, are dependent on 2 factors, the lights on the both roads are either green or red, and the both lights can be red at once but not green at once. Some of the  outcomes that came from working on this project where that I was able to understand sequential logic more, figured out how to work with D-flip better, was able to decipher a way of working with the design problem, and became more familiar with working with state diagrams, state tables, transition tables, transition equations, and output equations. 
 
-**Future Recommendations:** 
-- I feel as though the use of the github was unecessary and would have much rather preferred just sending a pdf to submit instead.
-- I think that the timing of this project was off, I do not think It should have been due during finals week and it should have been given earlier for more time.
-- Although I received full credit for the demo, I think that the grading gap was very steep in it and it should be somewhat more reasonable to receive partial credit
-- I think having more examples/resources to figure out how to make a testbench for a sequential circuit would have been useful
-**References and resources:**
-- Sv testbench demos 
-- April 15th to May 7th Lecture notes
-- Lecture recordings of Sv demos
+
 This project was designed and implemented by Kevin Pasato in Spring 2022 for CSE241 at the University at Buffalo. Content in this repository is not to be reproduced or utilized without written authorization from the instructor, Dr. Winikus (jwinikus@buffalo.edu). 
 
 
